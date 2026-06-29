@@ -1,26 +1,23 @@
-# Riviera Trip Landing Page
+# Nice Base Trip Landing Page
 
-Statyczny landing page HTML/CSS pod plan podróży: Nicea, Menton, Roquebrune-Cap-Martin, Èze i Monako.
+Statyczny landing page HTML/CSS pod plan podróży z noclegiem w Nicei przy Rue du Maréchal Joffre.
 
-## Jak uruchomić lokalnie
+## Pliki
 
-Wystarczy otworzyć plik `index.html` w przeglądarce.
+- `index.html`
+- `styles.css`
+- `README.md`
 
-## Jak wrzucić na GitHub Pages
+## Lokalny podgląd
 
-1. Utwórz repozytorium na GitHubie.
-2. Wrzuć do niego pliki:
-   - `index.html`
-   - `styles.css`
-   - `README.md`
-3. Wejdź w `Settings -> Pages`.
-4. W sekcji `Build and deployment` wybierz:
+Otwórz `index.html` w przeglądarce.
+
+## GitHub Pages
+
+1. Wrzuć pliki do głównego katalogu repo.
+2. Wejdź w `Settings -> Pages`.
+3. Ustaw:
    - Source: `Deploy from a branch`
    - Branch: `main`
    - Folder: `/root`
-5. Zapisz ustawienia i poczekaj chwilę na publikację strony.
-
-## Edycja
-
-Najważniejsze treści zmieniasz w `index.html`.
-Kolory, layout i responsywność są w `styles.css`.
+4. Zapisz i poczekaj na publikację.
